@@ -1,0 +1,16 @@
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\rations.csproj.AssemblyReference.cache
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\rations.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\rations.AssemblyInfoInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\rations.AssemblyInfo.cs
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\rations.csproj.CoreCompileInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\bin\Debug\net5.0\rations.exe
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\bin\Debug\net5.0\rations.deps.json
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\bin\Debug\net5.0\rations.runtimeconfig.json
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\bin\Debug\net5.0\rations.runtimeconfig.dev.json
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\bin\Debug\net5.0\rations.dll
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\bin\Debug\net5.0\ref\rations.dll
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\bin\Debug\net5.0\rations.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\rations.dll
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\ref\rations.dll
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\rations.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\c#\rations\obj\Debug\net5.0\rations.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\bin\Debug\net5.0\doubles.exe
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\bin\Debug\net5.0\doubles.deps.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\bin\Debug\net5.0\doubles.runtimeconfig.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\bin\Debug\net5.0\doubles.runtimeconfig.dev.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\bin\Debug\net5.0\doubles.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\bin\Debug\net5.0\ref\doubles.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\bin\Debug\net5.0\doubles.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\doubles.csproj.AssemblyReference.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\doubles.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\doubles.AssemblyInfoInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\doubles.AssemblyInfo.cs
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\doubles.csproj.CoreCompileInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\doubles.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\ref\doubles.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\doubles.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\doubles\obj\Debug\net5.0\doubles.genruntimeconfig.cache

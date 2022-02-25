@@ -1,0 +1,16 @@
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\bin\Debug\net5.0\decimals.exe
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\bin\Debug\net5.0\decimals.deps.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\bin\Debug\net5.0\decimals.runtimeconfig.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\bin\Debug\net5.0\decimals.runtimeconfig.dev.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\bin\Debug\net5.0\decimals.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\bin\Debug\net5.0\ref\decimals.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\bin\Debug\net5.0\decimals.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\decimals.csproj.AssemblyReference.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\decimals.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\decimals.AssemblyInfoInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\decimals.AssemblyInfo.cs
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\decimals.csproj.CoreCompileInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\decimals.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\ref\decimals.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\decimals.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\decimals\obj\Debug\net5.0\decimals.genruntimeconfig.cache

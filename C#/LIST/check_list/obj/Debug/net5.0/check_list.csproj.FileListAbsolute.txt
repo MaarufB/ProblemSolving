@@ -1,0 +1,16 @@
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\bin\Debug\net5.0\check_list.exe
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\bin\Debug\net5.0\check_list.deps.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\bin\Debug\net5.0\check_list.runtimeconfig.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\bin\Debug\net5.0\check_list.runtimeconfig.dev.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\bin\Debug\net5.0\check_list.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\bin\Debug\net5.0\ref\check_list.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\bin\Debug\net5.0\check_list.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\check_list.csproj.AssemblyReference.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\check_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\check_list.AssemblyInfoInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\check_list.AssemblyInfo.cs
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\check_list.csproj.CoreCompileInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\check_list.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\ref\check_list.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\check_list.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\check_list\obj\Debug\net5.0\check_list.genruntimeconfig.cache

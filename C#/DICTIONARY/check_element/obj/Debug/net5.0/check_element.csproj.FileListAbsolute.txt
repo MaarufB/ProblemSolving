@@ -1,0 +1,16 @@
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\bin\Debug\net5.0\check_element.exe
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\bin\Debug\net5.0\check_element.deps.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\bin\Debug\net5.0\check_element.runtimeconfig.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\bin\Debug\net5.0\check_element.runtimeconfig.dev.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\bin\Debug\net5.0\check_element.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\bin\Debug\net5.0\ref\check_element.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\bin\Debug\net5.0\check_element.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\check_element.csproj.AssemblyReference.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\check_element.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\check_element.AssemblyInfoInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\check_element.AssemblyInfo.cs
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\check_element.csproj.CoreCompileInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\check_element.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\ref\check_element.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\check_element.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\DICTIONARY\check_element\obj\Debug\net5.0\check_element.genruntimeconfig.cache

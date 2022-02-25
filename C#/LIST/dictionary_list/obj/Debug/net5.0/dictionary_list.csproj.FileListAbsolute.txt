@@ -1,0 +1,5 @@
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\dictionary_list\obj\Debug\net5.0\dictionary_list.csproj.AssemblyReference.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\dictionary_list\obj\Debug\net5.0\dictionary_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\dictionary_list\obj\Debug\net5.0\dictionary_list.AssemblyInfoInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\dictionary_list\obj\Debug\net5.0\dictionary_list.AssemblyInfo.cs
+D:\My_Files\SofwareCareerPath\HackerRank\C#\LIST\dictionary_list\obj\Debug\net5.0\dictionary_list.csproj.CoreCompileInputs.cache

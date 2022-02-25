@@ -1,0 +1,16 @@
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\bin\Debug\net5.0\rectangle_open.exe
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\bin\Debug\net5.0\rectangle_open.deps.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\bin\Debug\net5.0\rectangle_open.runtimeconfig.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\bin\Debug\net5.0\rectangle_open.runtimeconfig.dev.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\bin\Debug\net5.0\rectangle_open.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\bin\Debug\net5.0\ref\rectangle_open.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\bin\Debug\net5.0\rectangle_open.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\rectangle_open.csproj.AssemblyReference.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\rectangle_open.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\rectangle_open.AssemblyInfoInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\rectangle_open.AssemblyInfo.cs
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\rectangle_open.csproj.CoreCompileInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\rectangle_open.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\ref\rectangle_open.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\rectangle_open.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\rectangle_open\obj\Debug\net5.0\rectangle_open.genruntimeconfig.cache
