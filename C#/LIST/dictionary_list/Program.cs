@@ -19,9 +19,6 @@ namespace dictionary_list
 
             // add list to the dictionary with the key val
             myDictionary.Add("ones", myList);
-            
-
-
         }
     }
 }

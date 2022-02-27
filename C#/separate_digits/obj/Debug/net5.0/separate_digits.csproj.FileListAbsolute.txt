@@ -1,0 +1,16 @@
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\bin\Debug\net5.0\separate_digits.exe
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\bin\Debug\net5.0\separate_digits.deps.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\bin\Debug\net5.0\separate_digits.runtimeconfig.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\bin\Debug\net5.0\separate_digits.runtimeconfig.dev.json
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\bin\Debug\net5.0\separate_digits.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\bin\Debug\net5.0\ref\separate_digits.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\bin\Debug\net5.0\separate_digits.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\separate_digits.csproj.AssemblyReference.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\separate_digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\separate_digits.AssemblyInfoInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\separate_digits.AssemblyInfo.cs
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\separate_digits.csproj.CoreCompileInputs.cache
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\separate_digits.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\ref\separate_digits.dll
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\separate_digits.pdb
+D:\My_Files\SofwareCareerPath\HackerRank\C#\separate_digits\obj\Debug\net5.0\separate_digits.genruntimeconfig.cache
